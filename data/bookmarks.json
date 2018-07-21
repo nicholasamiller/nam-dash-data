@@ -1,0 +1,23 @@
+[
+    {
+        "name": "MDN - Javascript",
+        "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    },
+    {
+        "name": "Scala",
+        "href": "https://www.scala-lang.org/api/current/"
+    },
+    {
+        "name": "Regex",
+        "href": "https://docs.microsoft.com/en-us/dotnet/standard/base-types/regular-expression-language-quick-reference"
+    },
+	{
+	"name": "AWS",
+	"href": "https://ap-southeast-2.console.aws.amazon.com/console/home?region=ap-southeast-2#"
+	},
+	{
+	"name": "Azure",
+	"href": "https://portal.azure.com/"
+    }
+
+]
